@@ -45,3 +45,5 @@ A community-driven custom format for EDOPro, aiming to revive the strategic dept
 *   **Player B:** Plays an updated Gladiator Beast deck, using classic Fusions like Heraklinos alongside support cards from 2012 to improve consistency.
 *   **Result:** Tactical duels that emphasize resource management and strategic interruptions to determine the winner.
 
+## Your ideas and proposals are the foundation of everything; you can contribute at:
+https://github.com/josevdr95new/edison-cr/discussions
